@@ -1,0 +1,14 @@
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.AssemblyInfo.cs
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\anjum\Desktop\Csharp\bin\Debug\net10.0\Csharp.exe
+C:\Users\anjum\Desktop\Csharp\bin\Debug\net10.0\Csharp.deps.json
+C:\Users\anjum\Desktop\Csharp\bin\Debug\net10.0\Csharp.runtimeconfig.json
+C:\Users\anjum\Desktop\Csharp\bin\Debug\net10.0\Csharp.dll
+C:\Users\anjum\Desktop\Csharp\bin\Debug\net10.0\Csharp.pdb
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.dll
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\refint\Csharp.dll
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.pdb
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\Csharp.genruntimeconfig.cache
+C:\Users\anjum\Desktop\Csharp\obj\Debug\net10.0\ref\Csharp.dll
