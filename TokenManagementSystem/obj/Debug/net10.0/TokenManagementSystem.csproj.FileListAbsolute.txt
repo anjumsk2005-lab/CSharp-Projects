@@ -1,0 +1,15 @@
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\bin\Debug\net10.0\TokenManagementSystem.exe
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\bin\Debug\net10.0\TokenManagementSystem.deps.json
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\bin\Debug\net10.0\TokenManagementSystem.runtimeconfig.json
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\bin\Debug\net10.0\TokenManagementSystem.dll
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\bin\Debug\net10.0\TokenManagementSystem.pdb
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.AssemblyInfoInputs.cache
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.AssemblyInfo.cs
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.sourcelink.json
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.dll
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\refint\TokenManagementSystem.dll
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.pdb
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\TokenManagementSystem.genruntimeconfig.cache
+C:\Users\anjum\Desktop\Csharp\TokenManagementSystem\obj\Debug\net10.0\ref\TokenManagementSystem.dll

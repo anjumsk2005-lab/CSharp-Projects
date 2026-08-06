@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeArrayList\\EmployeeArrayList.csproj": {}
+    "c:\\Users\\anjum\\Desktop\\Csharp\\TokenManagementSystem\\TokenManagementSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeArrayList\\EmployeeArrayList.csproj": {
+    "c:\\Users\\anjum\\Desktop\\Csharp\\TokenManagementSystem\\TokenManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeArrayList\\EmployeeArrayList.csproj",
-        "projectName": "EmployeeArrayList",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeArrayList\\EmployeeArrayList.csproj",
+        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\TokenManagementSystem\\TokenManagementSystem.csproj",
+        "projectName": "TokenManagementSystem",
+        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\TokenManagementSystem\\TokenManagementSystem.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeArrayList\\obj\\",
+        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\TokenManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"
