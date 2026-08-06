@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj",
         "projectName": "CountLettersAndDigits",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\CountLettersAndDigits.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\CountLettersAndDigits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

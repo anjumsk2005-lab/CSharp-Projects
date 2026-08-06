@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

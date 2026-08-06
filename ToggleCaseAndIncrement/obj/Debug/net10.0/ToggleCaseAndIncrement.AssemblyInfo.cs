@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToggleCaseAndIncrement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2fb8f9cf35fe98a718611fc6039d34d78aefe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToggleCaseAndIncrement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToggleCaseAndIncrement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

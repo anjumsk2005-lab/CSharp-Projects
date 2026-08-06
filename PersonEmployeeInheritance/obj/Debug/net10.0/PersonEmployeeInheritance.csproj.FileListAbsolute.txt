@@ -1,0 +1,15 @@
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.AssemblyInfoInputs.cache
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.AssemblyInfo.cs
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.csproj.CoreCompileInputs.cache
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.sourcelink.json
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\bin\Debug\net10.0\PersonEmployeeInheritance.exe
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\bin\Debug\net10.0\PersonEmployeeInheritance.deps.json
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\bin\Debug\net10.0\PersonEmployeeInheritance.runtimeconfig.json
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\bin\Debug\net10.0\PersonEmployeeInheritance.dll
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\bin\Debug\net10.0\PersonEmployeeInheritance.pdb
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.dll
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\refint\PersonEmployeeInheritance.dll
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.pdb
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\PersonEmployeeInheritance.genruntimeconfig.cache
+C:\Users\anjum\Desktop\Csharp\PersonEmployeeInheritance\obj\Debug\net10.0\ref\PersonEmployeeInheritance.dll

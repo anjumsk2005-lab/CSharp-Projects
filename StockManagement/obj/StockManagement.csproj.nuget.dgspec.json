@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj",
         "projectName": "StockManagement",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\StockManagement.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\StockManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj",
         "projectName": "ToggleCaseAndIncrement",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\ToggleCaseAndIncrement.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\ToggleCaseAndIncrement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"
