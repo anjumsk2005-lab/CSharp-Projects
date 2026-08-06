@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj",
         "projectName": "PersonEmployeeInheritance",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\PersonEmployeeInheritance.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\PersonEmployeeInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

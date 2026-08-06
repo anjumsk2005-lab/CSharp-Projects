@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj",
         "projectName": "AreaCalculatorPolymorphism",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\AreaCalculatorPolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

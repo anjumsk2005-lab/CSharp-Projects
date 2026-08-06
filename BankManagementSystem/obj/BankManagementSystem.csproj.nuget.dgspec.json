@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj",
         "projectName": "BankManagementSystem",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\BankManagementSystem.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\BankManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

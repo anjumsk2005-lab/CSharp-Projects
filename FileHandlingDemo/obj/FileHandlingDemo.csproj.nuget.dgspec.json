@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj",
         "projectName": "FileHandlingDemo",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\FileHandlingDemo.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\FileHandlingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"

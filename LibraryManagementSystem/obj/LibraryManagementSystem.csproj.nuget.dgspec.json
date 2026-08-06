@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "C:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "C:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "c:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "C:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\Desktop\\Csharp\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config"
